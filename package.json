@@ -5,3 +5,4 @@
      "dev": "next",
   "build": "next build",
   "start": "next start",
+    "tsc": "tsc"
