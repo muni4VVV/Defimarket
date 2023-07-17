@@ -6,3 +6,5 @@
   "build": "next build",
   "start": "next start",
     "tsc": "tsc"
+  },
+  "dependencies": {
