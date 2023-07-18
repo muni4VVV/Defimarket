@@ -8,3 +8,4 @@
     "tsc": "tsc"
   },
   "dependencies": {
+    "@datadog/browser-rum": "^4.30.1",
