@@ -9,3 +9,4 @@
   },
   "dependencies": {
     "@datadog/browser-rum": "^4.30.1",
+    "@davatar/react": "^1.11.1",
