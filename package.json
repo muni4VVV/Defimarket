@@ -47,3 +47,6 @@
   },
   "prettier": {
     "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
