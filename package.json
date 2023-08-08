@@ -50,3 +50,5 @@
     "singleQuote": true
   },
   "devDependencies": {
+    "@stitches/react": "^1.2.8",
+    "@types/node": "^12.12.21",
