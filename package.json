@@ -52,3 +52,5 @@
   "devDependencies": {
     "@stitches/react": "^1.2.8",
     "@types/node": "^12.12.21",
+    "@types/react": "^18.0",
+    "@types/react-dom": "^18.0",
