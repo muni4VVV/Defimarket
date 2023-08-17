@@ -3,3 +3,5 @@
  */
 const nextConfig = {
   experimental: {
+    transpilePackages: ['@reservoir0x/reservoir-kit-ui'],
+  },
