@@ -4,3 +4,5 @@ import {
   slate,
   slateDark,
   violet,
+  violetA,
+  violetDark,
