@@ -8,3 +8,5 @@ import {
   violetDark,
   violetDarkA,
   green,
+  greenDark,
+  whiteA,
