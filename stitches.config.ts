@@ -12,3 +12,5 @@ import {
   whiteA,
   red,
   redDark,
+  gray,
+  blackA,
