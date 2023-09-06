@@ -16,3 +16,4 @@ import {
   blackA,
 } from '@radix-ui/colors'
 import { createStitches } from '@stitches/react'
+import type * as Stitches from '@stitches/react'
