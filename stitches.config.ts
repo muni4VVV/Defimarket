@@ -18,3 +18,7 @@ import {
 import { createStitches } from '@stitches/react'
 import type * as Stitches from '@stitches/react'
 import type * as Stitches from '@stitches/react'
+import { reset } from 'utils/css/reset'
+
+export const { createTheme, keyframes, styled, globalCss, getCssText } =
+  createStitches({
