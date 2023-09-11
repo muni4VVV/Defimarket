@@ -22,3 +22,6 @@ import { reset } from 'utils/css/reset'
 
 export const { createTheme, keyframes, styled, globalCss, getCssText } =
   createStitches({
+    theme: {
+      colors: {
+        ...crimson,
