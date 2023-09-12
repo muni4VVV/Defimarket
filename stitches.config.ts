@@ -25,3 +25,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
     theme: {
       colors: {
         ...crimson,
+        ...violet,
+        ...violetA,
