@@ -29,3 +29,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         ...violetA,
         ...slate,
         ...red,
+        ...whiteA,
+        ...blackA,
