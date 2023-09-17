@@ -35,3 +35,4 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         ...gray,
 
         /* Please leave
+        accent1: 'white',
