@@ -36,3 +36,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
 
         /* Please leave
         accent1: 'white',
+        primary1: 'black',
+        primary2: '$violet2',
