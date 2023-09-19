@@ -38,3 +38,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         accent1: 'white',
         primary1: 'black',
         primary2: '$violet2',
+        primary3: '$violet3',
+        primary4: '$violet4',
