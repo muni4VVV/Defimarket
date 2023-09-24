@@ -48,3 +48,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         primary10: '#222',
         primary12: '#eee',
         */
+
+          // Primary == slateDark
+        primary1: '#151718',
