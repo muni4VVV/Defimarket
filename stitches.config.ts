@@ -51,3 +51,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
 
           // Primary == slateDark
         primary1: '#151718',
+        primary2: '#1a1d1e',
+        primary3: '#202425',
