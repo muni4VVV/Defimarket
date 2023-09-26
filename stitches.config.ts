@@ -53,3 +53,4 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         primary1: '#151718',
         primary2: '#1a1d1e',
         primary3: '#202425',
+        primary4: '#26292b',
