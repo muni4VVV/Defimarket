@@ -59,3 +59,4 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         primary7: '#3a3f42',
         primary8: '#4c5155',
         primary9: '#697177',
+        primary10: '#787f85',
