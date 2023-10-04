@@ -64,3 +64,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         primary12: '#ecedee',
 
           // Secondary == slate
+        secondary1: '#fbfcfd',
+        secondary2: '#f8f9fa',
