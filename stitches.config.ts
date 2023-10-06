@@ -67,3 +67,4 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         secondary1: '#fbfcfd',
         secondary2: '#f8f9fa',
         secondary3: '#f1f3f5',
+        secondary4: '#eceef0',
