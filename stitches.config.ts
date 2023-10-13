@@ -76,3 +76,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         secondary10: '#7e868c',
         secondary11: '#687076',
         secondary12: '#11181c',
+
+        //Gray
+        // Use radix gray
