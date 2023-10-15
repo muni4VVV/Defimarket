@@ -79,3 +79,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
 
         //Gray
         // Use radix gray
+
+        //Red
+        red1: '$crimson1',
