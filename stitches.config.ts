@@ -84,3 +84,4 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         red1: '$crimson1',
         red2: '$crimson2',
         red3: '$crimson3',
+        red4: '$crimson4',
