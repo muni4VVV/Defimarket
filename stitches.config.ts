@@ -93,3 +93,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         red10: '$crimson10',
         red11: '$crimson11',
         red12: '$crimson12',
+
+        neutralBg: 'white',
