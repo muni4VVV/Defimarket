@@ -95,3 +95,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         red12: '$crimson12',
 
         neutralBg: 'white',
+        neutralBgSubtle: 'white',
+        panelShadow: 'rgba(0,0,0,0.1)',
