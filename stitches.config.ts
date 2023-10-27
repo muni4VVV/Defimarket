@@ -97,3 +97,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         neutralBg: 'white',
         neutralBgSubtle: 'white',
         panelShadow: 'rgba(0,0,0,0.1)',
+        panelBg: '$gray2',
+        panelBorder: 'transparent',
