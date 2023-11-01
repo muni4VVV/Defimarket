@@ -101,3 +101,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         panelBorder: 'transparent',
       },
       space: {
+        1: '4px',
+        2: '8px',
