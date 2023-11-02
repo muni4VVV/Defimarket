@@ -103,3 +103,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       space: {
         1: '4px',
         2: '8px',
+        3: '12px',
+        4: '16px',
