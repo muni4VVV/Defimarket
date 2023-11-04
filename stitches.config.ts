@@ -107,3 +107,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         4: '16px',
         5: '32px',
         6: '64px',
+      },
+      fontSizes: {},
