@@ -109,3 +109,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         6: '64px',
       },
       fontSizes: {},
+      fontWeights: {},
+      fonts: {
+        body: 'Inter',
