@@ -112,3 +112,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       fontWeights: {},
       fonts: {
         body: 'Inter',
+        button: '$body',
+      },
+      lineHeights: {},
