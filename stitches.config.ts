@@ -115,3 +115,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         button: '$body',
       },
       lineHeights: {},
+      letterSpacings: {},
+      sizes: {},
+      radii: {},
