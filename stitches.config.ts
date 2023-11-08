@@ -118,3 +118,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       letterSpacings: {},
       sizes: {},
       radii: {},
+      shadows: {},
+      transitions: {},
