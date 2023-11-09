@@ -120,3 +120,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       radii: {},
       shadows: {},
       transitions: {},
+      breakpoints: {
+        sm: 100,
