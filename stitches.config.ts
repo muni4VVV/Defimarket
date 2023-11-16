@@ -139,3 +139,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       }),
       mt: (value: Stitches.PropertyValue<'margin'>) => ({
         marginTop: value,
+      }),
+      mb: (value: Stitches.PropertyValue<'margin'>) => ({
+        marginBottom: value,
