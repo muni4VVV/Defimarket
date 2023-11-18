@@ -144,3 +144,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         marginBottom: value,
       }),
       ml: (value: Stitches.PropertyValue<'margin'>) => ({
+        marginLeft: value,
+      }),
+      mr: (value: Stitches.PropertyValue<'margin'>) => ({
