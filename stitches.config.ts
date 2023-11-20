@@ -149,3 +149,7 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       mr: (value: Stitches.PropertyValue<'margin'>) => ({
         marginRight: value,
       }),
+
+      // PADDING
+      p: (value: Stitches.PropertyValue<'padding'>) => ({
+        padding: value,
