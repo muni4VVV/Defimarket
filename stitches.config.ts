@@ -158,3 +158,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         paddingLeft: value,
         paddingRight: value,
       }),
+      py: (value: Stitches.PropertyValue<'padding'>) => ({
+        paddingTop: value,
