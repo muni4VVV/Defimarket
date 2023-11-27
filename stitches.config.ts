@@ -169,3 +169,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
         paddingBottom: value,
       }),
       pl: (value: Stitches.PropertyValue<'padding'>) => ({
+        paddingLeft: value,
+      }),
