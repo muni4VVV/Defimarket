@@ -177,3 +177,6 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       // DIMENSIONS
       w: (value: Stitches.PropertyValue<'width'>) => ({
         width: value,
+      }),
+      h: (value: Stitches.PropertyValue<'height'>) => ({
+        height: value,
