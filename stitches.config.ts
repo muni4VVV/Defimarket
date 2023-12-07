@@ -187,3 +187,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       }),
       // GRID
       colSpan: (value: number | 'full') => {
+        if (value === 'full') {
+          return {
