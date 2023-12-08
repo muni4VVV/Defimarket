@@ -189,3 +189,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       colSpan: (value: number | 'full') => {
         if (value === 'full') {
           return {
+            gridColumn: '1 / -1',
+          }
