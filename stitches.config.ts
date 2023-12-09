@@ -191,3 +191,5 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
           return {
             gridColumn: '1 / -1',
           }
+        }
+        return {
